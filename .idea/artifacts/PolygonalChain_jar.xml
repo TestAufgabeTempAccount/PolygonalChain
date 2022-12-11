@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PolygonalChain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PolygonalChain_jar</output-path>
+    <root id="archive" name="PolygonalChain.jar">
+      <element id="module-output" name="PolygonalChain" />
+    </root>
+  </artifact>
+</component>
